@@ -13,6 +13,7 @@ import java.util.Scanner;
  */
 public class EJ1 {
 
+    //PABLITOX CLAVÓ UN CLAVITOX
     /**
      * @param args the command line arguments
      */
